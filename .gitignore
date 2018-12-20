@@ -1,0 +1,25 @@
+/.vs
+#Unity3d Stuff
+/Assets/Art
+/Assets/StreamingAssets
+Library/*
+
+/obj/
+/Temp
+/Debug
+/UnityPackageManager
+
+
+/CS_DLL/
+*/ProjectVersion.txt
+*.csproj
+*.sln
+*.apk
+*.obb
+*.ipa
+
+#IOS build Stuff
+/ios_01/
+/ios_02/
+/ios_03/
+Assets/logCat/C_102_SocketConnect.cs
